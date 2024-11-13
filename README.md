@@ -7,7 +7,7 @@
 ### Base de dados:
 - ***https://www.kaggle.com/datasets/ammaraahmad/immigration-to-canada***
 ### Requisitos:
-- VScode
+- Jupyter notebook
 - Python
 - csv
 - Pandas
